@@ -538,6 +538,21 @@ h2{
 #services-section{
 	background-color: #000000;
 }
+.frase{
+	display: flex;
+	flex-flow: column;
+	font-size: x-large;
+	align-items: center;
+	background-color: rgb(19, 6, 6);
+	padding: 2rem;
+	margin-bottom: 3%;
+	box-shadow: 5px 5px 10px rgba(247, 7, 7, 0.623);
+	border-radius: 20px;
+}
+.frase:hover{
+	transform: scale(1.1);
+	transition: all 1.5s;
+}
 .ut{
 	color: white;
 	font-size: 35px;
@@ -549,6 +564,13 @@ h2{
 	padding-left: 20%;
 	font-size: 35px;
 }
+.ut5{
+	color: rgb(219, 0, 0);
+	font-weight: bold;
+	font-size: xx-large;
+	margin-bottom: 4%;
+}
+
 
 #lista-productos{
     /* display: none; */

@@ -237,7 +237,7 @@ function agregarProducto(e){
             cantidad: 1,
             id: productCard.querySelector('a').getAttribute('id')
         }
-        console.log(productCard);
+        // console.log(productCard);
 
     }
 }

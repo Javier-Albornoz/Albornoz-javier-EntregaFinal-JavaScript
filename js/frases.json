@@ -1,0 +1,402 @@
+ [
+    {
+        "id": 1,
+        "frase": "Fijar objetivos es el primer paso para transformar lo invisible en visible",
+        "autor": "Anthony Robbins."
+    },
+    {
+        "id": 2,
+        "frase": "La fuerza y el crecimiento llegan del esfuerzo continuo",
+        "autor": ""
+    },
+    {
+        "id": 3,
+        "frase": "Los perdedores se quejan de que los campeones se quejan de que entrenan",
+        "autor": ""
+    },
+    {
+        "id": 4,
+        "frase": "El dolor que sientes hoy es la fuerza que sentirás mañana",
+        "autor": ""
+    },
+    {
+        "id": 5,
+        "frase": "Lo imposible no un hecho, es una opinión. Imposible no es una declaración es un reto. Lo imposible es algo teórico, temporal. Imposible no existe nada",
+        "autor": "Muhammad Ali."
+    },
+    {
+        "id": 6,
+        "frase": "Hacer deporte es una fatiga sin fatiga",
+        "autor": "Gabriele D’ Annunzio."
+    },
+    {
+        "id": 7,
+        "frase": "La vida comienza al final de tu zona de confort",
+        "autor": "Walsh N. D."
+    },
+    {
+        "id": 8,
+        "frase": "Sin sufrimiento, no hay felicidad. He aprendido a disfrutar sufriendo",
+        "autor": "Rafa Nadal."
+    },
+    {
+        "id": 9,
+        "frase": "El deporte consiste en delegar en el cuerpo algunas de las más altas virtudes del alma",
+        "autor": "Jean Giraudoux."
+    },
+    {
+        "id": 10,
+        "frase": "El esfuerzo no se negocia",
+        "autor": "Diego Pablo Simeone."
+    },
+    {
+        "id": 11,
+        "frase": "Entrena cada día como si tu vida dependiera de ello",
+        "autor": "Rafael Nadal."
+    },
+    {
+        "id": 12,
+        "frase": "El talento depende de la inspiración, pero el esfuerzo depende de cada uno",
+        "autor": "Pep Guardiola."
+    },
+    {
+        "id": 13,
+        "frase": "Para tener éxito necesitas dedicar el 100% de tu entrenamiento, dieta y enfoque mental",
+        "autor": "Arnold Schwarzenegger."
+    },
+    {
+        "id": 14,
+        "frase": "Querer es poder",
+        "autor": ""
+    },
+    {
+        "id": 15,
+        "frase": "Si no estás dispuesto a sacrificar lo cotidiano, debes conformarte con lo ordinario",
+        "autor": "Jim Rohn"
+    },
+    {
+        "id": 16,
+        "frase": "Los obstáculos son esas cosas espantosas que se ven cuando desvías la atención del objetivo",
+        "autor": "Henry Ford."
+    },
+    {
+        "id": 17,
+        "frase": "Los desafíos son lo que hacen la vida interesante… vencerlos es lo que nos da sentido",
+        "autor": "Joshua J. Marine."
+    },
+    {
+        "id": 18,
+        "frase": "Cada vez que el mundo ve a una persona de éxito, sólo se da cuenta de la gloria pública, y nunca de los sacrificios hechos para alcanzarla",
+        "autor": "Vaibhav Shah."
+    },
+    {
+        "id": 19,
+        "frase": "Nuestra tarea en la vida no es vencer a los demás, sino superarnos a nosotros mismos",
+        "autor": ""
+    },
+    {
+        "id": 20,
+        "frase": "Entrena como la Bestia para lucir como la Bella",
+        "autor": ""
+    },
+    {
+        "id": 21,
+        "frase": "No seas una mujer que sueña con un hombre. Sé la mujer que sueñan todos los hombres",
+        "autor": ""
+    },
+    {
+        "id": 22,
+        "frase": "Cada día en el espejo verás a quien tienes que superar",
+        "autor": ""
+    },
+    {
+        "id": 23,
+        "frase": "La distancia entre el querer y el poder se acorta con el entrenamiento",
+        "autor": ""
+    },
+    {
+        "id": 24,
+        "frase": "La montaña más alta siempre está dentro de ti",
+        "autor": "Walter Bonatti."
+    },
+    {
+        "id": 25,
+        "frase": "Cuanto más trabajas, más difícil es renunciar",
+        "autor": "Vince Lombardi."
+    },
+    {
+        "id": 26,
+        "frase": "No te rindas. Sufres ahora, y vivirás el resto de tu vida como un campeón!",
+        "autor": "Muhammad Ali."
+    },
+    {
+        "id": 27,
+        "frase": "No esperes el momento adecuado para hacer las cosas, el único momento es ahora",
+        "autor": ""
+    },
+    {
+        "id": 28,
+        "frase": "¿Cómo alcanzar una meta? Sin prisa pero sin pausa",
+        "autor": "Goethe."
+    },
+    {
+        "id": 29,
+        "frase": "Aprende a realizar pequeñas acciones a diario que, aun imperceptiblemente, te acerquen un poco más a los resultados que quieres conseguir",
+        "autor": "Giuseppe Fornaciari."
+    },
+    {
+        "id": 30,
+        "frase": "Esfuérzate siempre al máximo. En especial cuando tengas todo en contra",
+        "autor": ""
+    },
+    {
+        "id": 31,
+        "frase": "Pensar es un placer agotador, cómo hacer deporte",
+        "autor": "Antonio Castronuovo."
+    },
+    {
+        "id": 32,
+        "frase": "La fuerza no viene de las victorias. La lucha y los desafíos desarrollan tu fuerza. Cuando pasas por dificultades y decides no rendirte, eso es fuerza",
+        "autor": "Arnold schwarzenegger."
+    },
+    {
+        "id": 33,
+        "frase": "Debe ser un estilo de vida no un castigo",
+        "autor": "Phoenix Carnival."
+    },
+    {
+        "id": 34,
+        "frase": "Si te saltas un entrenamiento, pierdes la oportunidad de mejorar",
+        "autor": ""
+    },
+    {
+        "id": 35,
+        "frase": "Nunca se ha hecho nada grande sin pasión",
+        "autor": "Friedrich Hegel."
+    },
+    {
+        "id": 36,
+        "frase": "Puede tener resultados o excusas. No puedes tener las dos cosas, si no cambias nunca cambiarás",
+        "autor": "Giuseppe Fornaciari."
+    },
+    {
+        "id": 37,
+        "frase": "Puedo aceptar el fracaso, pero no puedo aceptar no intentarlo",
+        "autor": "Michael Jordan."
+    },
+    {
+        "id": 38,
+        "frase": "La fuerza no viene de las victorias. La lucha y los desafíos desarrollan tu fuerza. Cuando pasas por dificultades y decides no rendirte, eso es fuerza",
+        "autor": "Arnold schwarzenegger"
+    },
+    {
+        "id": 39,
+        "frase": " No esperes conseguir lo más fácil, espera ser el más fuerte",
+        "autor": "Jim Rohn."
+    },
+    {
+        "id": 40,
+        "frase": "Sólo los que están convencidos de que pueden ganar, ganan",
+        "autor": "Tony Robbins."
+    },
+    {
+        "id": 41,
+        "frase": "No esperes conseguir lo más fácil, espera ser el más fuerte",
+        "autor": "Jim Rohn."
+    },
+    {
+        "id": 42,
+        "frase": "Sólo los que están convencidos de que pueden ganar, ganan",
+        "autor": "Virgilio."
+    },
+    {
+        "id": 43,
+        "frase": "Una meta sin un plan es sólo un deseo",
+        "autor": ""
+    },
+    {
+        "id": 44,
+        "frase": "Hay epidemias de todo tipo, el gusto por el deporte es una epidemia de salud",
+        "autor": "Jean Giraudoux."
+    },
+    {
+        "id": 45,
+        "frase": "El mejor reconocimiento para el cansancio no es lo que obtienes de él, sino en lo que te conviertes gracias a él",
+        "autor": "John Ruskin."
+    },
+    {
+        "id": 46,
+        "frase": "Gimnasta, hombre que tiene cerebro en los músculos",
+        "autor": "Ambrose Bierce."
+    },
+    {
+        "id": 47,
+        "frase": "Recuerda que las sensaciones de una buena carrera son mucho mejores que las de sentarse ahí y pensar que quieres correr",
+        "autor": "Sarah Condor."
+    },
+    {
+        "id": 48,
+        "frase": "El deporte mide el valor humano en milímetros y centésimas de segundo",
+        "autor": "Bernard Arcand."
+    },
+    {
+        "id": 49,
+        "frase": "El deporte siempre ha tenido una gran importancia, en todas las épocas y sobre todo por todos los gobiernos. Por la buena razón de que el deporte entretiene, obsesiona y rebota a las masas",
+        "autor": "Thomas Bernhard."
+    },
+    {
+        "id": 50,
+        "frase": "",
+        "autor": ""
+    },
+    {
+        "id": 51,
+        "frase": "El trabajo se contrarresta con otro tipo de esfuerzo que no viene de una imposición, sino de un impulso verdaderamente libre y generoso de poder vital: el deporte",
+        "autor": "José Ortega y Gasset."
+    },
+    {
+        "id": 52,
+        "frase": "El deporte tiene el poder de cambiar el mundo. Únete al pueblo. Habla un idioma que todos entienden. El deporte puede crear esperanza donde antes sólo había desesperación",
+        "autor": "Nelson Mandela."
+    },
+    {
+        "id": 53,
+        "frase": "El verdadero fracaso es renunciar",
+        "autor": "Zig Ziglar."
+    },
+    {
+        "id": 54,
+        "frase": "El talento te abandona si no trabajas duro todos los días por lo que quieres conseguir",
+        "autor": "Will Smith."
+    },
+    {
+        "id": 55,
+        "frase": "Si otras personas lo han hecho antes que yo, también puedo",
+        "autor": "William Faulkner"
+    },
+    {
+        "id": 56,
+        "frase": "Si no crees en ti mismo, nadie lo hará por ti",
+        "autor": "Kobe Bryant."
+    },
+    {
+        "id": 57,
+        "frase": "Es en el momento de tomar decisiones cuando das forma a tu destino",
+        "autor": "Anthony Robbins."
+    },
+    {
+        "id": 58,
+        "frase": "El deseo de ganar no es tan importante como el deseo de prepararse para ganar",
+        "autor": ""
+    },
+    {
+        "id": 59,
+        "frase": "Si lo que has conseguido es mucho, lo que estás por conseguir será inmenso",
+        "autor": ""
+    },
+    {
+        "id": 60,
+        "frase": "Mientras perseveramos y resistimos, podemos conseguir todo lo que queremos",
+        "autor": "Mike Tyson"
+    },
+    {
+        "id": 61,
+        "frase": "La salud de un hombre puede ser juzgada por lo que toma de dos en dos, las pastillas o las escaleras",
+        "autor": "Joan Welsh."
+    },
+    {
+        "id": 62,
+        "frase": "Vivir un estilo de vida saludable sólo te privará de mala salud, letargo y grasa",
+        "autor": "Jill Johnson."
+    },
+    {
+        "id": 63,
+        "frase": "No dejamos de hacer ejercicio porque envejecemos, envejecemos porque dejamos de hacer ejercicio",
+        "autor": "Dr. Kenneth Cooper"
+    },
+    {
+        "id": 64,
+        "frase": "Mantener el cuerpo en buena salud es un deber… de lo contrario no podremos mantener nuestra mente fuerte y clara",
+        "autor": "Buda."
+    },
+    {
+        "id": 65,
+        "frase": "Cada célula viviente de tu cuerpo está hecha de la comida que comes. Si consumes constantemente comida chatarra, entonces tendrás un cuerpo chatarra",
+        "autor": "Jeanette Jenkins"
+    },
+    {
+        "id": 66,
+        "frase": "Cuanto mayor sea tu nivel de energía, más eficiente será tu cuerpo. Cuanto más eficiente sea tu cuerpo, mejor te sentirás y más usarás tu talento para producir resultados sobresalientes",
+        "autor": "Anthony Robbins"
+    },
+    {
+        "id": 67,
+        "frase": "La mayoría de nosotros pensamos que no tenemos tiempo para hacer ejercicio. Estamos hablando de tres a seis horas a la semana, o un mínimo de treinta minutos al día, cada dos días. Eso no parece una cantidad de tiempo desmesurada considerando los tremendos beneficios en términos del impacto sobre las otras 162 – 165 horas de la semana",
+        "autor": "Stephen Covey"
+    },
+    {
+        "id": 68,
+        "frase": "Los que piensan que no tienen tiempo para el ejercicio corporal tarde o temprano tendrán que encontrar tiempo para la enfermedad",
+        "autor": "Edward Stanley"
+    },
+    {
+        "id": 69,
+        "frase": "Cuida tu cuerpo. Es el único lugar donde tienes que vivir",
+        "autor": "Jim Rohn."
+    },
+    {
+        "id": 70,
+        "frase": "Un hombre demasiado ocupado para cuidar de su salud es como un mecánico demasiado ocupado para cuidar de sus herramientas",
+        "autor": "Desconocido."
+    },
+    {
+        "id": 71,
+        "frase": "Felicidad no es hacer lo que uno quiere, sino querer lo que uno hace",
+        "autor": ""
+    },
+    {
+        "id": 72,
+        "frase": "Es importante hacer lo correcto, aunque nadie esté mirando",
+        "autor": ""
+    },
+    {
+        "id": 73,
+        "frase": "Si nunca lo intentas, nunca lo conseguirás",
+        "autor": ""
+    },
+    {
+        "id": 74,
+        "frase": "Acepta las derrotas como las grandes maestras que son",
+        "autor": ""
+    },
+    {
+        "id": 75,
+        "frase": "Confía en tu intuición y en ti",
+        "autor": ""
+    },
+    {
+        "id": 76,
+        "frase": "Ignora a quienes te digan que soñar es de ilusos. Contribuye con tus sueños a ser mejor y a hacer del mundo algo mejor",
+        "autor": ""
+    },
+    {
+        "id": 77,
+        "frase": "No dejes que lo que no puedes hacer te impida hacer lo que puedes hacer",
+        "autor": "John Wooden."
+    },
+    {
+        "id": 78,
+        "frase": "Cree que lo puedes hacer y lo harás",
+        "autor": ""
+    },
+    {
+        "id": 79,
+        "frase": "Un atleta que corre es una escultura en movimiento",
+        "autor": "Edwin Moses."
+    },
+    {
+        "id": 80,
+        "frase": "Avanzar, conseguir lo que te propones supone esfuerzo, entrenamiento, sufrimiento. Todo está en nuestras manos…Un nuevo día, un nuevo reto",
+        "autor": "Josef Ajram."
+    }
+]
